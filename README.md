@@ -9,7 +9,7 @@ A little about myself: 🤭
  - 💻 Student in Systems Analysis and Development - Unifacs; _(and future junior developer)_
  - 🏗️ Student in Civil Engineer - UFBA; _(but, in the process of career migration)_
  - 🗃️ An organized and methodical guy; _(discipline is essential)_
- - 📤 I try to think outside the box; _(creativity moves the world)_
+ - 📤 Always trying to think outside the box; _(creativity moves the world)_
  - 🌄 Always open to new opportunities; _(driven by new challenges)_
 
 
