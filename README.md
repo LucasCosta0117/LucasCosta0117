@@ -8,9 +8,9 @@ Oi, meu nome é **Lucas Costa**, é um prazer ter você aqui!
 Um pouquinho sobre mim: 
 
     . 💻 Estudante de Análise e Desenvolvimento de Sistemas (2º período) - UNIFACS;
-    . 🧱 Estudante de Engenharia Civil (9º período) - UNIFACS;
+    . 🧱 Estudante de Engenharia Civil (9º período) - UFBA;
     . 📱  Entusiasta de Tecnologia;
-    . 🕺🏽  Apixonado por Forró;
+    . 🕺🏽  Apaixonado por Forró;
     
 <br>
 
@@ -19,7 +19,7 @@ Nesse momento:
     . 📚 Estudando Java (Foco no Spring Boot com Maven);
     . 🎓 Desenvolvendo uma Aplicação WEB como tema de TCC no curso de Eng. Civil;
     . 🚧 Iniciando um projeto pessoal Front End (HTML, CSS e Node.js);
-    . ⌨ Particiando como ADM na comunidade [Dev's do LinkedIn](https://www.linkedin.com/company/83048443/);
+    . ⌨ Produtor de conteúdo na comunidade [Dev's do LinkedIn](https://www.linkedin.com/company/83048443/);
  
 
 <br>
