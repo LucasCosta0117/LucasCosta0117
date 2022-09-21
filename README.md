@@ -17,8 +17,8 @@ Um pouquinho sobre mim:
 Nesse momento:
 
     . 📚 Estudando Java (Foco no Spring Boot com Maven);
+    . 📚 Estudando Angular (Uso de CLI e Angular Routing);
     . 🎓 Desenvolvendo uma Aplicação WEB como tema de TCC no curso de Eng. Civil;
-    . 🚧 Iniciando um projeto pessoal Front End (HTML, CSS e Node.js);
     . ⌨ Produtor de conteúdo na comunidade [Dev's do LinkedIn](https://www.linkedin.com/company/83048443/);
  
 
