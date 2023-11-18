@@ -20,7 +20,7 @@ Nesse momento:
     . 📚 Estudando PHP (Foco no Laravel 10);
     . 🎓 Incrementando uma Aplicação WEB como tema de TCC no curso de Eng. Civil (Front-end com template metronic e boostrap, Back-end em php puro para rotinas simples de cálculo);
     . ⌨ Produtor de conteúdo na comunidade [Dev's do LinkedIn](https://www.linkedin.com/company/83048443/);
-    . ⌨ Desenvolvedor Júnior Full Stack [Empresa atual: Simova](https://www.linkedin.com/company/83048443/);
+    . ⌨ Desenvolvedor Júnior Full Stack [Empresa atual: Simova];
  
 
 <br>
