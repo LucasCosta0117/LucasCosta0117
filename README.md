@@ -6,18 +6,17 @@ Oi, meu nome é **Lucas Costa**, é um prazer ter você aqui!
 <br>
 Um pouquinho sobre mim: 
 
-    . 💻 Estudante de Análise e Desenvolvimento de Sistemas (8º período) - UNIFACS;
-    . 🧱 Estudante de Engenharia Civil (10º período) - UFBA;
-    . 📱  Apaixonado por Tecnologia;
-    . 🕺🏽  Apaixonado por Forró;
+    . 💻  Análise e Desenvolvimento de Sistemas - UNIFACS;
+    . 🧱  Engenharia Civil - UFBA;
+    . 📱  Apaixonado por Tecnologia e inovação;
     
 <br>
 Nesse momento:
 
-    . 📚 Estudando VueJS (Incluindo libs como Vue Router e Vuex);
-    . 📚 Estudando PHP (Foco no Laravel 10x);
-    . 🎓 Incrementando uma Aplicação WEB como tema de TCC no curso de Eng. Civil (Front-end com template metronic e boostrap, Back-end em php para construção das rotinas de cálculo);
-    . ⌨ Desenvolvedor Full Stack [Empresa atual: Simova];
+    . 🎓 Trabalhando no front com VueJS (Incluindo libs como Vue Router e Vuex);
+    . 🎓 Trabalhando no back com PHP (Foco no Laravel 10x);
+    . 📚 Estudando Node+Empress+Mongo para projetos banck-end com js;
+    . ⌨  Desenvolvedor Full Stack [Empresa atual: Simova];
  
 <br>
 <a href="https://github.com/LucasCosta0117">
