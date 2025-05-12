@@ -16,7 +16,7 @@ Nesse momento:
     . 💻 Trabalhando no front com VueJS (Incluindo libs como Vue Router e Vuex);
     . 💻 Trabalhando no back com PHP (Foco no Laravel 10x);
     . 📚 Estudando Node+Empress+Mongo para projetos banck-end com js;
-    . ⌨  Desenvolvedor Full Stack [Empresa atual: Simova];
+    . ⌨  Desenvolvedor Full Stack [Empresa atual: Simova] (Experiência com Java, Spring, Slim+Synfone, PHP nativo, Tuig, Vuejs...;
  
 <br>
 <a href="https://github.com/LucasCosta0117">
